@@ -1,0 +1,55 @@
+Dataset: 4_5_10_7 
+SCS length= 21
+Run-time= 30.0 milliseconds;
+The resulting SCS is: AGCGTTACTAGCCGGCTTTGG
+
+Dataset: 4_5_10_7 
+SCS length= 21
+Run-time= 29.0 milliseconds;
+The resulting SCS is: AAGTGGCGACATGGGCCGTAC
+
+Dataset: 4_5_10_7 
+SCS length= 20
+Run-time= 134.0 milliseconds;
+The resulting SCS is: ATAGGGGACTTGATGGTCCT
+
+Dataset: 4_5_10_7 
+SCS length= 20
+Run-time= 36.0 milliseconds;
+The resulting SCS is: GAGTTCTGAGGAAGTATATC
+
+Dataset: 4_5_10_7 
+SCS length= 21
+Run-time= 33.0 milliseconds;
+The resulting SCS is: CGGGGGAGAGAATCGGTGGCC
+
+Dataset: 4_5_10_7 
+SCS length= 23
+Run-time= 35.0 milliseconds;
+The resulting SCS is: TAGCATTCTCGCGCCCTGTCGGT
+
+Dataset: 4_5_10_7 
+SCS length= 23
+Run-time= 36.0 milliseconds;
+The resulting SCS is: ACGGCGTGGTTCTTCTGGCCTCT
+
+Dataset: 4_5_10_7 
+SCS length= 24
+Run-time= 16.0 milliseconds;
+The resulting SCS is: TCCACTATATAACGTCTGGGTCGC
+
+Dataset: 4_5_10_7 
+SCS length= 23
+Run-time= 15.0 milliseconds;
+The resulting SCS is: TACACGACGTTCTCCCGTTATTG
+
+Dataset: 4_5_10_7 
+SCS length= 23
+Run-time= 16.0 milliseconds;
+The resulting SCS is: TACGGGCTGTGGGCTGTGAAATC
+
+Dataset: 4_5_10_7 
+SCS length= 23
+Run-time= 15.0 milliseconds;
+The resulting SCS is: AAAGTTTCGTCGTGTAGACGACT
+

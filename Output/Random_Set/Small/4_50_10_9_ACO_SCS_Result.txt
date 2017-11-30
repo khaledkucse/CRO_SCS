@@ -1,0 +1,15 @@
+Dataset: 4_50_10_9 
+SCS length= 31
+Run-time= 300.0 milliseconds;
+The resulting SCS is: AGCTGACGATCGATACGTACGTACGTCAGGT
+
+Dataset: 4_50_10_9 
+SCS length= 31
+Run-time= 313.0 milliseconds;
+The resulting SCS is: AGCTGACGATCGATACGTACGTACGTCAGGT
+
+Dataset: 4_50_10_9 
+SCS length= 31
+Run-time= 306.0 milliseconds;
+The resulting SCS is: AGCTGACGATCGATACGTAACGTACGTCAGG
+

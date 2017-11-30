@@ -1,0 +1,20 @@
+Dataset: 4_5_10_7 
+SCS length= 19
+Run-time= 16.0 milliseconds;
+The resulting SCS is: CGCTAGCGGTGCGCGTTGT
+
+Dataset: 4_5_10_7 
+SCS length= 20
+Run-time= 16.0 milliseconds;
+The resulting SCS is: TCCTAAACCGCAATAGAGGA
+
+Dataset: 4_5_10_7 
+SCS length= 21
+Run-time= 31.0 milliseconds;
+The resulting SCS is: GGATCTGAAGTGACTGCAGGC
+
+Dataset: 4_5_10_7 
+SCS length= 20
+Run-time= 16.0 milliseconds;
+The resulting SCS is: TGCCTAGCCGAGCTATATTA
+

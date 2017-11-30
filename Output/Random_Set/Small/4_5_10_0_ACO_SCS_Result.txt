@@ -1,0 +1,5 @@
+Dataset: 4_5_10_0 
+SCS length= 23
+Run-time= 750.0 milliseconds;
+The resulting SCS is: AGACGACTACGTCTGATAACTGC
+
