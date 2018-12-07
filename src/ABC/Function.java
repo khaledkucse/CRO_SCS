@@ -109,7 +109,7 @@ public class Function
 				int index=0;
 				for(int k=0;k<v.size();k++)
 				{
-					if(n.size()>=index)
+					if(n.size()<=index)
 						break;
 					
 					if(v.elementAt(k)==n.elementAt(index))
